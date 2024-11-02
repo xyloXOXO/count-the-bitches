@@ -35,3 +35,7 @@ this part process the video incoding , i took default value as 30 fps for usage 
 
 it does preety much everything , like the central unit of code it does match if the video encoding ackshully match the picture that was pre-
 defines in folder
+
+#  how to use >>>
+create a Images folder wih capital I 
+and enter the pictures in it 
